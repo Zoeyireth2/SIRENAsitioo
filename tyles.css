@@ -1,0 +1,44 @@
+*{margin: 2;
+padding: 2;
+font-family: Calibri;
+}
+body{
+
+    background-color: yellow;
+}
+
+
+#title{
+color: rgb(0, 38, 255);
+text-align: center;
+font-size: 25px;
+}
+
+.especial{
+    color: rgb(0, 38, 255);
+    text-align: center; 
+    font-size:20px ;
+}
+
+.hello{
+  color: rgb(0, 38, 255);
+  font-size: 20px;
+
+}
+.luna{
+    color: rgb(0, 38, 255);
+    font-size: 20px;
+}
+.sol{
+color: rgb(0, 38, 255);
+font-size: 20px;
+}
+.estrella{
+color: rgb(0, 38, 255);
+font-size: 20px;
+}
+img,h4,h1{
+    text-align: center;
+    
+}
+
